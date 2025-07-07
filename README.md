@@ -1,5 +1,5 @@
 # Library Management System Project in ASP.Net C# with SQL Server Database
-Final year project best suitable for BCA/MCA/B.Tech/O Level/A Level/Polytechnic students.
+Final year project students.
 
 
 ## Project Name:
@@ -23,7 +23,7 @@ Website Project
 
 
 ## Abstract 
-Library management system project used to track books owned, issue book, return book records, penalty records, and students who have borrowed.This project efficiently manages book records, book issuance, returns, penalties, and student borrowing in a seamless interface. Perfect for BCA/MCA/B.Tech/O Level/A Level/Polytechnic students seeking a robust final year project!
+Library management system project used to track books owned, issue book, return book records, penalty records, and students who have borrowed.This project efficiently manages book records, book issuance, returns, penalties,
 
 
 
@@ -120,6 +120,6 @@ Here are the list of activities of librarian.
 
 
 
-Don't miss out on this comprehensive Library Management System - a valuable addition to your portfolio and a practical demonstration of ASP.NET C# skills. DM now for details! 🎓💡 #coderbaba #ASPNET #CSharp #FinalYearProject #LibraryManagementSystem #BCA #MCA #BTECH #PolytechnicStudents
+Don't miss out on this comprehensive Library Management System - a valuable addition to your portfolio and a practical demonstration of ASP.NET C# skills. DM now for details! 🎓💡 #coderbaba #ASPNET #CSharp 
 
 # Happy Coding.
